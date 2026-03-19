@@ -15,5 +15,7 @@ This project demonstrates UART-based communication between an RP2040 and an FPGA
 -When the start signal is given, it transmit the data present in its output buffer.
 
 
+#Please help us on the following
+## ! Error facing 
+*when we use 'Arduino_top.ino' that produces the time out issue.*
 
-Error facing 
