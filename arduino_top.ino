@@ -1,4 +1,3 @@
-'''
   #include "Shrike.h"
 
 ShrikeFlash fpga;
@@ -80,4 +79,4 @@ void loop() {
 
   delay(2000);
 }
-'''
+
